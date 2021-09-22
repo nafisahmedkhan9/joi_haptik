@@ -1,3 +1,21 @@
+.icon-small{
+  font-size: small;
+}
+
+.icon-large{
+  font-size: large;
+}
+
+.icon-medium{
+  font-size: medium;
+}
+
+.flex-end-and-center{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
 .App {
   text-align: center;
 }
